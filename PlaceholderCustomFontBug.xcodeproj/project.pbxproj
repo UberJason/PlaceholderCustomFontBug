@@ -7,44 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		96D1763C24D5DCD000026FED /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763424D5C97400026FED /* Lato-Black.ttf */; };
+		96D1763D24D5DCD000026FED /* Lato-Hairline.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763724D5C97400026FED /* Lato-Hairline.ttf */; };
+		96D1763E24D5DCD000026FED /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763B24D5C97400026FED /* Lato-Light.ttf */; };
+		96D1763F24D5DCD000026FED /* Lato-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763224D5C97400026FED /* Lato-LightItalic.ttf */; };
+		96D1764024D5DCD000026FED /* Lato-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763824D5C97400026FED /* Lato-BlackItalic.ttf */; };
+		96D1764124D5DCD000026FED /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763324D5C97400026FED /* Lato-Bold.ttf */; };
+		96D1764224D5DCD000026FED /* Lato-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763A24D5C97400026FED /* Lato-BoldItalic.ttf */; };
+		96D1764324D5DCD000026FED /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763624D5C97400026FED /* Lato-Regular.ttf */; };
+		96D1764424D5DCD000026FED /* Lato-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763124D5C97400026FED /* Lato-Italic.ttf */; };
+		96D1764524D5DCD000026FED /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763924D5C97400026FED /* OFL.txt */; };
+		96D1764624D5DCD000026FED /* Lato-HairlineItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D1763524D5C97400026FED /* Lato-HairlineItalic.ttf */; };
 		96EBC9F724D5C8E1009C1872 /* PlaceholderCustomFontBugApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EBC9F624D5C8E1009C1872 /* PlaceholderCustomFontBugApp.swift */; };
 		96EBC9F924D5C8E1009C1872 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EBC9F824D5C8E1009C1872 /* ContentView.swift */; };
 		96EBC9FB24D5C8E3009C1872 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96EBC9FA24D5C8E3009C1872 /* Assets.xcassets */; };
 		96EBC9FE24D5C8E3009C1872 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96EBC9FD24D5C8E3009C1872 /* Preview Assets.xcassets */; };
-		96EBCA0924D5C8E3009C1872 /* PlaceholderCustomFontBugTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EBCA0824D5C8E3009C1872 /* PlaceholderCustomFontBugTests.swift */; };
-		96EBCA1424D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EBCA1324D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		96EBCA0524D5C8E3009C1872 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 96EBC9EB24D5C8E1009C1872 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 96EBC9F224D5C8E1009C1872;
-			remoteInfo = PlaceholderCustomFontBug;
-		};
-		96EBCA1024D5C8E3009C1872 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 96EBC9EB24D5C8E1009C1872 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 96EBC9F224D5C8E1009C1872;
-			remoteInfo = PlaceholderCustomFontBug;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		96D1763124D5C97400026FED /* Lato-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Italic.ttf"; sourceTree = "<group>"; };
+		96D1763224D5C97400026FED /* Lato-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-LightItalic.ttf"; sourceTree = "<group>"; };
+		96D1763324D5C97400026FED /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
+		96D1763424D5C97400026FED /* Lato-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Black.ttf"; sourceTree = "<group>"; };
+		96D1763524D5C97400026FED /* Lato-HairlineItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-HairlineItalic.ttf"; sourceTree = "<group>"; };
+		96D1763624D5C97400026FED /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
+		96D1763724D5C97400026FED /* Lato-Hairline.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Hairline.ttf"; sourceTree = "<group>"; };
+		96D1763824D5C97400026FED /* Lato-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-BlackItalic.ttf"; sourceTree = "<group>"; };
+		96D1763924D5C97400026FED /* OFL.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		96D1763A24D5C97400026FED /* Lato-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-BoldItalic.ttf"; sourceTree = "<group>"; };
+		96D1763B24D5C97400026FED /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Light.ttf"; sourceTree = "<group>"; };
 		96EBC9F324D5C8E1009C1872 /* PlaceholderCustomFontBug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlaceholderCustomFontBug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96EBC9F624D5C8E1009C1872 /* PlaceholderCustomFontBugApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceholderCustomFontBugApp.swift; sourceTree = "<group>"; };
 		96EBC9F824D5C8E1009C1872 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		96EBC9FA24D5C8E3009C1872 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96EBC9FD24D5C8E3009C1872 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		96EBC9FF24D5C8E3009C1872 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		96EBCA0424D5C8E3009C1872 /* PlaceholderCustomFontBugTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlaceholderCustomFontBugTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		96EBCA0824D5C8E3009C1872 /* PlaceholderCustomFontBugTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceholderCustomFontBugTests.swift; sourceTree = "<group>"; };
-		96EBCA0A24D5C8E3009C1872 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		96EBCA0F24D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlaceholderCustomFontBugUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		96EBCA1324D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceholderCustomFontBugUITests.swift; sourceTree = "<group>"; };
-		96EBCA1524D5C8E3009C1872 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,29 +52,31 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		96EBCA0124D5C8E3009C1872 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		96EBCA0C24D5C8E3009C1872 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		96D1763024D5C97400026FED /* Lato Font */ = {
+			isa = PBXGroup;
+			children = (
+				96D1763124D5C97400026FED /* Lato-Italic.ttf */,
+				96D1763224D5C97400026FED /* Lato-LightItalic.ttf */,
+				96D1763324D5C97400026FED /* Lato-Bold.ttf */,
+				96D1763424D5C97400026FED /* Lato-Black.ttf */,
+				96D1763524D5C97400026FED /* Lato-HairlineItalic.ttf */,
+				96D1763624D5C97400026FED /* Lato-Regular.ttf */,
+				96D1763724D5C97400026FED /* Lato-Hairline.ttf */,
+				96D1763824D5C97400026FED /* Lato-BlackItalic.ttf */,
+				96D1763924D5C97400026FED /* OFL.txt */,
+				96D1763A24D5C97400026FED /* Lato-BoldItalic.ttf */,
+				96D1763B24D5C97400026FED /* Lato-Light.ttf */,
+			);
+			path = "Lato Font";
+			sourceTree = "<group>";
+		};
 		96EBC9EA24D5C8E1009C1872 = {
 			isa = PBXGroup;
 			children = (
 				96EBC9F524D5C8E1009C1872 /* PlaceholderCustomFontBug */,
-				96EBCA0724D5C8E3009C1872 /* PlaceholderCustomFontBugTests */,
-				96EBCA1224D5C8E3009C1872 /* PlaceholderCustomFontBugUITests */,
 				96EBC9F424D5C8E1009C1872 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -86,8 +85,6 @@
 			isa = PBXGroup;
 			children = (
 				96EBC9F324D5C8E1009C1872 /* PlaceholderCustomFontBug.app */,
-				96EBCA0424D5C8E3009C1872 /* PlaceholderCustomFontBugTests.xctest */,
-				96EBCA0F24D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -99,6 +96,7 @@
 				96EBC9F824D5C8E1009C1872 /* ContentView.swift */,
 				96EBC9FA24D5C8E3009C1872 /* Assets.xcassets */,
 				96EBC9FF24D5C8E3009C1872 /* Info.plist */,
+				96D1763024D5C97400026FED /* Lato Font */,
 				96EBC9FC24D5C8E3009C1872 /* Preview Content */,
 			);
 			path = PlaceholderCustomFontBug;
@@ -110,24 +108,6 @@
 				96EBC9FD24D5C8E3009C1872 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		96EBCA0724D5C8E3009C1872 /* PlaceholderCustomFontBugTests */ = {
-			isa = PBXGroup;
-			children = (
-				96EBCA0824D5C8E3009C1872 /* PlaceholderCustomFontBugTests.swift */,
-				96EBCA0A24D5C8E3009C1872 /* Info.plist */,
-			);
-			path = PlaceholderCustomFontBugTests;
-			sourceTree = "<group>";
-		};
-		96EBCA1224D5C8E3009C1872 /* PlaceholderCustomFontBugUITests */ = {
-			isa = PBXGroup;
-			children = (
-				96EBCA1324D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.swift */,
-				96EBCA1524D5C8E3009C1872 /* Info.plist */,
-			);
-			path = PlaceholderCustomFontBugUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,42 +130,6 @@
 			productReference = 96EBC9F324D5C8E1009C1872 /* PlaceholderCustomFontBug.app */;
 			productType = "com.apple.product-type.application";
 		};
-		96EBCA0324D5C8E3009C1872 /* PlaceholderCustomFontBugTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 96EBCA1B24D5C8E3009C1872 /* Build configuration list for PBXNativeTarget "PlaceholderCustomFontBugTests" */;
-			buildPhases = (
-				96EBCA0024D5C8E3009C1872 /* Sources */,
-				96EBCA0124D5C8E3009C1872 /* Frameworks */,
-				96EBCA0224D5C8E3009C1872 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				96EBCA0624D5C8E3009C1872 /* PBXTargetDependency */,
-			);
-			name = PlaceholderCustomFontBugTests;
-			productName = PlaceholderCustomFontBugTests;
-			productReference = 96EBCA0424D5C8E3009C1872 /* PlaceholderCustomFontBugTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		96EBCA0E24D5C8E3009C1872 /* PlaceholderCustomFontBugUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 96EBCA1E24D5C8E3009C1872 /* Build configuration list for PBXNativeTarget "PlaceholderCustomFontBugUITests" */;
-			buildPhases = (
-				96EBCA0B24D5C8E3009C1872 /* Sources */,
-				96EBCA0C24D5C8E3009C1872 /* Frameworks */,
-				96EBCA0D24D5C8E3009C1872 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				96EBCA1124D5C8E3009C1872 /* PBXTargetDependency */,
-			);
-			name = PlaceholderCustomFontBugUITests;
-			productName = PlaceholderCustomFontBugUITests;
-			productReference = 96EBCA0F24D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -197,14 +141,6 @@
 				TargetAttributes = {
 					96EBC9F224D5C8E1009C1872 = {
 						CreatedOnToolsVersion = 12.0;
-					};
-					96EBCA0324D5C8E3009C1872 = {
-						CreatedOnToolsVersion = 12.0;
-						TestTargetID = 96EBC9F224D5C8E1009C1872;
-					};
-					96EBCA0E24D5C8E3009C1872 = {
-						CreatedOnToolsVersion = 12.0;
-						TestTargetID = 96EBC9F224D5C8E1009C1872;
 					};
 				};
 			};
@@ -222,8 +158,6 @@
 			projectRoot = "";
 			targets = (
 				96EBC9F224D5C8E1009C1872 /* PlaceholderCustomFontBug */,
-				96EBCA0324D5C8E3009C1872 /* PlaceholderCustomFontBugTests */,
-				96EBCA0E24D5C8E3009C1872 /* PlaceholderCustomFontBugUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -233,22 +167,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96D1763E24D5DCD000026FED /* Lato-Light.ttf in Resources */,
+				96D1763F24D5DCD000026FED /* Lato-LightItalic.ttf in Resources */,
+				96D1764024D5DCD000026FED /* Lato-BlackItalic.ttf in Resources */,
+				96D1764224D5DCD000026FED /* Lato-BoldItalic.ttf in Resources */,
+				96D1764424D5DCD000026FED /* Lato-Italic.ttf in Resources */,
 				96EBC9FE24D5C8E3009C1872 /* Preview Assets.xcassets in Resources */,
+				96D1764524D5DCD000026FED /* OFL.txt in Resources */,
+				96D1764624D5DCD000026FED /* Lato-HairlineItalic.ttf in Resources */,
+				96D1763C24D5DCD000026FED /* Lato-Black.ttf in Resources */,
+				96D1763D24D5DCD000026FED /* Lato-Hairline.ttf in Resources */,
+				96D1764324D5DCD000026FED /* Lato-Regular.ttf in Resources */,
 				96EBC9FB24D5C8E3009C1872 /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		96EBCA0224D5C8E3009C1872 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		96EBCA0D24D5C8E3009C1872 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				96D1764124D5DCD000026FED /* Lato-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,36 +195,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		96EBCA0024D5C8E3009C1872 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				96EBCA0924D5C8E3009C1872 /* PlaceholderCustomFontBugTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		96EBCA0B24D5C8E3009C1872 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				96EBCA1424D5C8E3009C1872 /* PlaceholderCustomFontBugUITests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		96EBCA0624D5C8E3009C1872 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 96EBC9F224D5C8E1009C1872 /* PlaceholderCustomFontBug */;
-			targetProxy = 96EBCA0524D5C8E3009C1872 /* PBXContainerItemProxy */;
-		};
-		96EBCA1124D5C8E3009C1872 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 96EBC9F224D5C8E1009C1872 /* PlaceholderCustomFontBug */;
-			targetProxy = 96EBCA1024D5C8E3009C1872 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		96EBCA1624D5C8E3009C1872 /* Debug */ = {
@@ -456,90 +358,6 @@
 			};
 			name = Release;
 		};
-		96EBCA1C24D5C8E3009C1872 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2GPQ8GE99T;
-				INFOPLIST_FILE = PlaceholderCustomFontBugTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.JYJApps.PlaceholderCustomFontBugTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PlaceholderCustomFontBug.app/PlaceholderCustomFontBug";
-			};
-			name = Debug;
-		};
-		96EBCA1D24D5C8E3009C1872 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2GPQ8GE99T;
-				INFOPLIST_FILE = PlaceholderCustomFontBugTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.JYJApps.PlaceholderCustomFontBugTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PlaceholderCustomFontBug.app/PlaceholderCustomFontBug";
-			};
-			name = Release;
-		};
-		96EBCA1F24D5C8E3009C1872 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2GPQ8GE99T;
-				INFOPLIST_FILE = PlaceholderCustomFontBugUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.JYJApps.PlaceholderCustomFontBugUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PlaceholderCustomFontBug;
-			};
-			name = Debug;
-		};
-		96EBCA2024D5C8E3009C1872 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2GPQ8GE99T;
-				INFOPLIST_FILE = PlaceholderCustomFontBugUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.JYJApps.PlaceholderCustomFontBugUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PlaceholderCustomFontBug;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -557,24 +375,6 @@
 			buildConfigurations = (
 				96EBCA1924D5C8E3009C1872 /* Debug */,
 				96EBCA1A24D5C8E3009C1872 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		96EBCA1B24D5C8E3009C1872 /* Build configuration list for PBXNativeTarget "PlaceholderCustomFontBugTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				96EBCA1C24D5C8E3009C1872 /* Debug */,
-				96EBCA1D24D5C8E3009C1872 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		96EBCA1E24D5C8E3009C1872 /* Build configuration list for PBXNativeTarget "PlaceholderCustomFontBugUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				96EBCA1F24D5C8E3009C1872 /* Debug */,
-				96EBCA2024D5C8E3009C1872 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
