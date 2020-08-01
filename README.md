@@ -8,3 +8,6 @@ Instructions:
 - Run the project.
 - Observe the difference in the two lines in ContentView.swift and how they're handling redaction().
 
+## Screenshot
+
+<img width=300 src="/Screenshot.png">
